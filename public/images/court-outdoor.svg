@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600">
+  <rect width="960" height="600" fill="#091917" />
+  <rect x="40" y="40" width="880" height="520" rx="20" fill="#0d2420" stroke="#34d399" stroke-width="2" stroke-opacity="0.4" />
+  <!-- Sun / Open Sky symbol -->
+  <circle cx="820" cy="110" r="35" fill="#34d399" fill-opacity="0.2" stroke="#34d399" stroke-width="2" />
+  <rect x="120" y="180" width="720" height="300" fill="#0f332a" stroke="#34d399" stroke-width="2" />
+  <line x1="480" y1="180" x2="480" y2="480" stroke="#f5f7f6" stroke-width="2" />
+  <text x="480" y="535" fill="#34d399" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="700" letter-spacing="3" text-anchor="middle">OUTDOOR BREEZY TOURNAMENT COURT</text>
+</svg>

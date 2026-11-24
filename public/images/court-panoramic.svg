@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600">
+  <rect width="960" height="600" fill="#091917" />
+  <rect x="40" y="40" width="880" height="520" rx="20" fill="#0d2420" stroke="#c8ee5a" stroke-width="2" stroke-opacity="0.4" />
+  <!-- Panoramic Glass Illusion -->
+  <rect x="80" y="80" width="800" height="380" fill="#13352f" stroke="#c8ee5a" stroke-width="3" />
+  <line x1="480" y1="80" x2="480" y2="460" stroke="#f5f7f6" stroke-width="3" />
+  <line x1="80" y1="270" x2="880" y2="270" stroke="#c8ee5a" stroke-width="4" stroke-dasharray="8 6" />
+  <circle cx="480" cy="270" r="40" stroke="#c8ee5a" stroke-width="3" fill="none" />
+  <text x="480" y="515" fill="#c8ee5a" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="700" letter-spacing="3" text-anchor="middle">PANORAMIC GLASS COURT</text>
+</svg>
